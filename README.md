@@ -1,8 +1,27 @@
-# React + Vite
+# Ignite Feed React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido durante o curso **Ignite** da Rocketseat, com o objetivo de criar uma aplicação de feed de postagens. A aplicação foi construída com **React** e **JavaScript**, utilizando o conceito de componentes reutilizáveis e gerenciamento de estado com hooks.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologias Usadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite**: Ferramenta de build e desenvolvimento rápido.
+- **CSS Modules**: Para gerenciamento de estilos locais no projeto.
+
+## ⚙️ Funcionalidades
+
+- **Exibir lista de postagens**: A aplicação lista postagens simuladas.
+- **Adicionar novo comentário**: Usuários podem adicionar comentários nas postagens.
+- **Excluir um comentário**: Usuários excluir seus comentários.
+- **Aplaudir comentários**: Usuários podem aplaudir comentários.
+
+## 🎯 Objetivos
+
+- **Praticar o uso de estados no React**.
+- **Entender a imutabilidade do estado**.
+- **Trabalhar com listas dinâmicas e a manipulação de chaves em React**.
+- **Aplicar conceitos de componentização e reutilização de componentes**.
+
+## 🖼 Layout do Projeto
+
+![Layout do ToDo List](./src/assets/layout.png)
